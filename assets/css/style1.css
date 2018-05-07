@@ -1,0 +1,233 @@
+body{
+
+    
+    background-image: url(../images/concrete_seamless.png)
+    
+
+}
+
+name {
+
+    width: fit-content;
+    background-color: teal;
+    float: left;
+    margin: 0px 0px 0px 400px;
+    height: 20px;
+    padding: 20px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    
+   
+    
+}
+
+nav {
+ width: fit-content;
+ /*background-color: red;*/
+ margin: 0px 0px 0px 1350px;
+ height: 20px;
+    padding: 24px;
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+ 
+ 
+
+}
+
+#header{
+    width: 100%;
+    background-color: white;
+    height: 60px;
+    
+    border-bottom: grey;
+  
+}
+
+navspace{
+ word-spacing: 10px;
+
+}
+
+#aboutMeBackground {
+
+    background-color: white;
+    margin: 20px 350px 0px 400px;
+    height: 600px;
+}
+
+aboutMe{
+
+   
+}
+
+h1{
+ 
+    font-size: x-large;
+    margin: 0px 0px 0px 5px;
+    padding: 30px;
+    color: teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+hr {
+    margin-top: 30px;
+}
+
+img {
+
+     height: 200px;
+     width: 200px;
+     margin-top: 20px;
+     float: left;
+     margin: 35px 20px 20px 0px;
+     border: solid;
+    
+}
+
+p
+{
+
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ margin-left: 25px;
+ margin-right: 20px;
+ line-height: 1.6;
+
+}
+
+#footer {
+
+    background-color: #666666;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    height: 60px;
+    border-top-style: solid;
+    border-width: 5px;
+    border-color: teal;
+}
+
+footercontent
+{
+margin-left: 900px;
+color: white;
+position: fixed;
+bottom: 0%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#contactform
+{
+    margin-left: 30px;
+  
+}
+
+#submit
+{
+    background-color: teal;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+
+#lable2
+{
+    position: fixed;
+    left: 22.7%;
+    top: 63%;
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    width: 182px;
+    opacity: 0.8;
+    
+}
+
+a
+{
+ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: teal;
+
+}
+
+#linkbox{
+
+    color: white;
+}
+
+#newrow{
+
+position: absolute;
+bottom: 300px;
+
+}
+
+.centerme {
+
+    text-align: center;
+
+}
+
+picture{
+
+    position: relative;
+}
+
+#lable
+{
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    width: 182px;
+    opacity: 0.8;
+    position: absolute;
+    top: 365px;
+    left: 438px;
+}
+
+
+
+
+#lable1
+{
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    width: 182px;
+    opacity: 0.8;
+    position: absolute;
+    top: 365px;
+    left: 663px;
+   
+}
+
+picture2{
+
+    position: relative;
+    bottom: -10px;
+  
+}
+
+
+#lable2
+{
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    width: 182px;
+    opacity: 0.8;
+    position: absolute;
+    top: 595px;
+    left: 438px;
+    
+}
+
+
+
